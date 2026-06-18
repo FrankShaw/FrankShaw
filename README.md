@@ -1,4 +1,6 @@
-## Hi there 👋
+Distinguished Engineer [@ZoomInfo](https://github.com/Zoominfo)
+
+PDX is home 🌲⛰️
 
 <!--
 **FrankShaw/FrankShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
